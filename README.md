@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+
+# Contract Address:
+
+https://sepolia-blockscout.lisk.com/address/0x304f1431F58140E44Eee136B9B756ba8Bc4CbdF4
